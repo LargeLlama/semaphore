@@ -1,3 +1,3 @@
 # Semaphore
 ## Work 17
-## Rubin Peci and Derek Chan
+By Rubin Peci and Derek Chan
